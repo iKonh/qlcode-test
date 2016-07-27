@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 7566:老王装货 (01背包)
  */
-public class Test {
+public class Test7566 {
 
     public static int[] goods = {509, 838, 924, 650, 604, 793, 564, 651, 697, 649, 747, 787, 701, 605, 644};
     public static int max = 5000;

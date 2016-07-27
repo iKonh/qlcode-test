@@ -20,7 +20,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>test.Test</mainClass>
+                            <mainClass>test.Test7566</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
